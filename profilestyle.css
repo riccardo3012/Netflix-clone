@@ -59,6 +59,10 @@ hr {
   background-color: #1f2225;
 }
 
+img:first {
+  margin-right: 10px;
+}
+
 img {
   max-width: 100px;
   position: relative;
